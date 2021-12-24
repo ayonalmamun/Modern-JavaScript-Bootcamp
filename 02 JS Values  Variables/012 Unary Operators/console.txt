@@ -1,0 +1,32 @@
+let score = 0;
+
+score = score + 10;
+
+score // 10
+
+score += 5; // score = score + 5;
+
+score // 15
+
+score -= 2; // score = score - 2;
+
+score // 13
+
+let bonusMult = 3;
+
+score *= bonusMult; // 13 * 3 = 39
+
+clear();
+
+let counter = 0;
+counter++; // unary operatior where there is only one side
+
+counter // 1
+
+counter++;
+
+counter // 2
+
+counter--;
+
+counter // 1

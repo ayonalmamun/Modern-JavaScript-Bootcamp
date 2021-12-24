@@ -1,0 +1,8 @@
+007 - used alert();
+008 - used clear(); and expotential i.e., 2 ** 3 which means 2 ^ 3 
+009 - introduced NaN(Not a Number) && Infinity
+011 - Let variable. Mention about camelcase
+012 - Unary operators (++, --)
+013 - Const variable
+014 - Old var
+015 - mention about snake case

@@ -1,0 +1,14 @@
+029 - >, <, >=, <=
+030 + 031 - ==, !=, ===, !==
+032 - Running a .js file. console.log, console.error. Also mentions REPL(Read, Evaluate, Print, Loop).
+033 - if
+034 - else if
+035 - else
+036 - nested if else
+037 - truthy or falsy e.g. if(currentUser)
+038 - &&
+039 - ||
+040 - !
+041 - operator precedence
+042 - switch case
+043 - ternary operator

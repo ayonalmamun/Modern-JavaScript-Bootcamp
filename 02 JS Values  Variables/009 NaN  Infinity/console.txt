@@ -1,0 +1,16 @@
+// NaN means Not a Number
+
+NaN // special value in JS
+
+0/0 // output: NaN
+
+NaN + 5 // output: NaN
+
+1/0 // Infinity
+
+
+-1/0 // Negative Infinity
+
+0 // Positive Xero
+
+-0 // Negative Zero

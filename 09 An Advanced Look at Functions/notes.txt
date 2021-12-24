@@ -1,0 +1,9 @@
+087 - function scope
+088 - block scope
+089 - lexical scope
+090 - function expression
+091 - higher order functions
+092 - functions as Arguments
+093 - functions as Return Values
+094 - intro to callbacks
+095 - hoisting

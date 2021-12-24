@@ -1,0 +1,22 @@
+let x = 7;
+x == 7 || x === 3 &&  x > 10;
+// true   or  false  and   false
+// true   or   false
+// true
+
+// and has higher priority than or
+
+(x == 7 || x === 3) &&  x > 10;
+// (true or false) and false
+// true            and false
+// false
+
+// bracket has higher priority than and
+
+// priority order: (), !, &&, ||
+
+x < 3 && x > 1;
+// false and true
+// false
+
+// <, > has higher priority than and

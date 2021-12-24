@@ -1,0 +1,40 @@
+let someName = 'Ayon';
+
+someName
+
+let age = 75;
+
+age
+
+let var1 = 4;
+
+let var2 = 2;
+
+var1 + var2; // 6
+
+var1 + 3;  // 7
+
+var1 = var2 - 1; // 1
+
+var1
+
+let let = 0; // you cannot name a variable let as it is reserved keyword
+
+let document = 10; // you cannot name a variable document as it is an special object
+
+// in js, use camelcase
+
+let numOfHens = 25;
+
+numOfHens
+
+let avgRating = 7.5;
+
+avgRating
+
+let avgRating = 5; 
+// it will give error as avgRating is already declared! 
+// update: Chrome 80 and up has relaxed rules around variable re-declarations. So it will not give error anymore!
+// but you cannot use it on js file
+
+avgRating // output will be 5

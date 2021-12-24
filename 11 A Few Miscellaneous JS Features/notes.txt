@@ -1,0 +1,12 @@
+107 - New JS Features Intro(only theory).
+108 - Default Parameters
+109 - Spread for function calls
+110 - Spread in array literals
+111 - Spread in object literals
+112 - Arguments Object
+113 - Rest
+114 - Destructuring Arrays
+115 - Destructuring Objects
+116 - Nested Destructuring
+117 - Destructuring Parameters
+

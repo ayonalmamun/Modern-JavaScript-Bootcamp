@@ -1,0 +1,7 @@
+058 - Objects Intro
+059 - Object Creation & Accessing its property with dot(.)
+060 - Accessing Object property with square([]) and dot(.)
+061 - Adding and Updating Properties
+062 - Nested Arrays Objects(follow till line 15)
+063 - Objects are reference types too
+064 - Arrays & Object Equality Comparison

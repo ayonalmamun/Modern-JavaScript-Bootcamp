@@ -1,0 +1,22 @@
+null
+undefined
+// both means lack of value
+// null: you assign it yourself
+
+let loggedInUser = null;
+loggedInUser
+loggedInUser = 'Kabila The Thief';
+loggedInUser
+
+// undefined means the value is not assigned to it
+
+"lol"[10] // undefined
+
+// we don't set undefined by ourselves, but we can.
+const u = undefined
+u // undefined
+
+// best example
+
+let color;
+color // output will be: undefined

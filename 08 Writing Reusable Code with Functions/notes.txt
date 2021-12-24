@@ -1,0 +1,10 @@
+077 - function basics
+078 - simple function example
+079 - function with argument/parameter
+080 - multiple argument
+081 - return
+082 - more about return
+083 - password validation (function example)
+084 - average (function example)
+085 - pangram - check if every alphabet is here or not in a sentence (function example)
+086 - random card picking (function example)

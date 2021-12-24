@@ -1,0 +1,12 @@
+095 - Intro to Array Callback Methods (only theory, no code. so, removed the folder.)
+096 - forEach
+097 - Map
+098 - Arrow Functions Intro
+099 - Arrow Functions Implicit Returns (Return with first bracket)
+100 - Array Method (find)
+101 - Array Method (filter)
+102 - Array Method (some & every)
+103 - Sort
+104 - Reduce Intro
+105 - Reduce 2nd Parameter
+106 - Reduce Advanced

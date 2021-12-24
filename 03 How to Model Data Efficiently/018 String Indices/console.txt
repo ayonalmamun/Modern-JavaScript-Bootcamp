@@ -1,0 +1,29 @@
+"hello".length // 5
+
+"".length // 0
+
+"  ".length // 2 (two spaces) 
+
+let mySong = "Surfin' USA";
+
+mySong.length; // 11
+
+mySong[0] // S
+
+mySong[10] // A
+
+mySong[11] // undefined as there is nothing there
+
+let garbage = "bla bla bla ok ty 500 @@ 123 @!54awd4$"
+
+garbage[garbage.length - 1]; // $
+
+garbage[garbage.length - 2]; // 4
+
+let favSong = "Aadat";
+
+favSong
+
+favSong[0] = "D";
+
+favSong // you cannot change string this way in JS

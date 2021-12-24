@@ -1,0 +1,37 @@
+"78" // this is a string btw
+
+typeof "25" // string
+
+typeof 25 // number
+
+'he said, "lol".' // it is ok. but there is a problem. the output will be: "he said, \"lol\"."
+// this problem is caused in browser only. in js file, if you console.log it, it will not be shown like that.
+// it is tested on script.js
+
+"he said, 'lol'." // it will be fine
+
+"he said, "lol"." // this one will give error
+
+let fName = "Habu";
+
+let animeName = 'Bleach';
+
+// you can use single or double quotation but use one
+
+fName // "Habu"
+
+animeName // "Bleach"
+
+let lName = "Mia";
+
+fName + lName // HabuMia
+
+fName + " " + lName // Habu Mia
+
+let fullName = fName + " " + lName;
+
+fullName
+
+"hi" + 1 // output will be "hi1" as 1 will be converted into string automatically 
+
+"hi" - 1 // definitely NaN

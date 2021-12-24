@@ -1,0 +1,11 @@
+016 - intro about boolean data type. Also mentioned that data type of a variable can be changed.
+017 - intro about string. Mention about typeof, single or double quotation, string concatenation
+018 - About ".length"
+019 - .toUpperCase(); .toLowerCase(); .trim(); Also chaining methods
+020 - .indexOf .slice() .replace()
+022 - how to include " in string by using \", new line by \n, include backslash(\) in string by "\\"
+*** 023 - Template Literals are back-ticks which can embed value ***
+024 - null & undefined
+025 - Math Objects (PI, abs, round, floor, random)
+026 - typeof
+027 - parseInt, parstFloat

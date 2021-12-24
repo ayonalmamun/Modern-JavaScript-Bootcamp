@@ -1,0 +1,14 @@
+044 - array creation [*** a single array might consist of NaN, number, string, null, boolean etc. ***]
+045 - indices of Array [plural of index]
+046 - modify an array
+047 - array methods (push, pop)
+048 - array methods (shift, unshift) and something about push method.
+049 - array methods (concat)
+050 - array methods (includes, indexOf)
+051 - array methods (reverse, join)
+052 - array methods (slice)
+053 - array methods (splice)
+054 - array methods (sort - alphabets only)
+055 - reference Types (reference on memory)
+056 - using const with Arrays (modify const array variable)
+057 - array of arrays.

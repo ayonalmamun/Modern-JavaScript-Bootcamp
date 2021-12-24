@@ -1,0 +1,11 @@
+066 - For Loops
+067 - Infinite Loops
+068 - For Loops Arrays
+069 - Nested For Loops
+070 - While Loops
+071 - More While Loops
+072 - break
+073 - for of
+074 - for of(when to use, when to not)
+075 - for of with object
+076 - for in

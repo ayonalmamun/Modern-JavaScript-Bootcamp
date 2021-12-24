@@ -1,0 +1,15 @@
+let msg = "kawai chikorita!"
+
+msg.toUpperCase();
+
+let msgUc = msg.toUpperCase();
+
+msgUc
+
+msgUc.toLowerCase();
+
+let greeting = '     leave me alone plz          ';
+
+greeting.trim(); // removes unnecessary spaces
+
+greeting.trim().toUpperCase(); // chaining to methods. At first removes extra spaces, then uppercases the string.

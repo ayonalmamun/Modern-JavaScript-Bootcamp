@@ -1,0 +1,25 @@
+// ==
+25 == "25" // true, because == only cares about value, not type
+
+false == false // true
+
+7 != "6" // true
+
+// facts
+0 == "" // true
+0 == false // true
+null == undefined // true
+// facts
+// ==
+
+// ===
+25 === "25" // false, because === cares about value & type
+
+35 === 35 // true
+
+0 === false // false
+
+null === undefined // false
+
+5 !== "5" // true
+// ===

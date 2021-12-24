@@ -1,0 +1,11 @@
+-2 > 1 // false
+
+10 < 100 // true
+
+2 >= 1 // true
+
+5 <= 2 // false
+
+"hello".length >= "hello Chika!".length // false
+
+'a' < 'A' // false [ASCII Value of a is 97 & A is 65]

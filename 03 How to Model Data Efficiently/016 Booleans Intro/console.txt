@@ -1,0 +1,29 @@
+true // boolean
+
+false // boolean
+
+let isLoggedIn = true;
+
+let gameOver = false;
+
+const isWaterWet = true;
+
+isWaterWet // true
+
+gameOver // false
+
+isLoggedIn // true
+
+isLoggedIn = false;
+
+isLoggedIn // false
+
+// variable can change type
+
+let isAngry = false;
+
+isAngry
+
+isAngry = 5;
+
+isAngry

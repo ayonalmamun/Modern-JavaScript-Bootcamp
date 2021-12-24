@@ -1,0 +1,25 @@
+const age = "5" + "4";
+
+age // 54
+
+"pecan pie"[7]; // i
+
+"PUP"[3] // undefined
+
+let song = "song of the eagle"; 
+song.toUpperCase(); // SONG OF THE EAGLE
+song // song of the eagle
+
+let userInput = " TODD@gmail.com"
+let cleanedInput = userInput.trim().toLowerCase(); 
+cleanedInput // "todd@gmail.com"
+
+let park = 'Yellowstone';
+const index = park.indexOf('Stone');
+index // -1, as indexOf is case sensative
+
+let yell = 'GO AWAY!!';
+let indexOfYell = yell.indexOf('!');
+indexOfYell // 7
+
+'GARBAGE!'.slice(2).replace("B", ''); // RAGE! as B is going to replaced by nothing (an empty string)

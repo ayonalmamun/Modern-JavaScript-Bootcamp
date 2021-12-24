@@ -1,0 +1,27 @@
+Math.PI; // 3.141592653589793
+
+Math.round(4.5); // 5 (rounds a number)
+Math.round(4.4); // 4 (rounds a number)
+
+Math.abs(-502); // 502 (absolute value)
+
+Math.pow(2,5); // 32 (to the power)
+
+Math.floor(3.8); // 3 (removes decimal)
+
+Math.random(); // generate random number
+
+// steps to get 1 to 10 random
+
+let step1 = Math.random();
+
+let step2 = step1 * 10;
+
+let step3 = Math.floor(step2);
+
+let step4 = step3 + 1;
+
+// in one line
+Math.floor(Math.random() * 10) + 1;
+
+// for more understanding, go to script.js

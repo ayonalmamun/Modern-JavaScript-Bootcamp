@@ -1,0 +1,10 @@
+'he said he isn't ok' // it will show error
+solve: 'he said he isn't ok'
+
+let str = "he said, \"I want pasta + nasta.\"";
+console.log(str);
+// if you do 
+str
+// on browser and want to show output in browser, it will cause problem.
+// it will show like this, "he said, \"I want pasta + nasta.\""
+// continued on script.js

@@ -1,0 +1,21 @@
+let eggCount = 42;
+
+eggCount + 2; // 44
+
+eggCount // 42
+
+const rating = 7.5; 
+
+rating = 8; // you cannot change value of a constant variable
+
+rating // 7.5
+
+let wind_speed = 76;
+
+wind_speed += 5; // 81
+
+wind_speed --; // 80
+
+wind_speed // 80
+
+// minor issue with this code is "wind_speed" is snake case

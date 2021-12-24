@@ -1,0 +1,19 @@
+const year = 2021;
+
+year
+
+year++; // error! you cannot change value of a constant variable
+
+// where to use const
+
+const pi = 3.14159;
+
+pi
+
+const daysInWeek = 7;
+
+daysInWeek
+
+const peopleCount = 10;
+
+let peopleCount = 5; // it will show error as peopleCount has already been declared!

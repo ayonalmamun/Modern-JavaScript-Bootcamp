@@ -1,0 +1,31 @@
+let tvShow = 'samYasin';
+
+tvShow.indexOf('Yasin'); // Output: 3, as it will figure out the index number of "Y"
+
+
+tvShow.indexOf('X'); // Output: -1, as it is not found.
+
+"nataiGhuddi".indexOf("Ghuddi"); // 5
+
+"nataiGhuddi".indexOf("ghuddi"); // -1, not found. It is case sensitive
+
+"Baseball".indexOf("ball"); // 4
+
+"Baseball".slice(4); // it will slice the string from 4th index to the end. Output: ball
+
+let sport = "football";
+
+sport.slice(4); // Output: ball
+
+sport.slice(40); // Output: "", as 40th index does not exist
+
+sport.slice(0,4); // it will slice from 0th index to before 4th index. Output: foot
+
+// slice facts: 
+// parameter value 1: where to start
+// parameter value 2: where to stop + 1
+
+
+"Genshin good".replace("good", "bad"); // 1st perameter find which part to replace and 2nd perameter what will be the replacement
+
+"Genshin good".replace("OK", "bad"); // nothing will be changed as "OK" is not found
